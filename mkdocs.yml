@@ -1,0 +1,8 @@
+site_name: My Docs
+theme:
+  name: material
+  palette:
+    primary: indigo    # 主色调
+    accent: pink      # 强调色
+remote_branch: gh-pages
+remote_name: origin
